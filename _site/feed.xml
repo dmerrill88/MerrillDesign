@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Merrill Design - A portfolio about me and the work I&#39;ve done</title>
+    <description>My portfolio.</description>
+    <link>http://yourdomain.com/MerrillDesign/</link>
+    <atom:link href="http://yourdomain.com/MerrillDesign/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 26 Jan 2016 13:22:35 -0600</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2016 13:22:35 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Adventures in Austin</title>
+        <description>&lt;p&gt;Since moving to Austin I’ve loved every second of it. The food is great weather you choose to go to a restaurant or a food truck. The people are very friendly which has made it easier to settle into the city. There’s always a good concert or jazz hall to go to if I’m in the mood. Austin has just about anything you can think of to do if you go out of your way to look.&lt;/p&gt;
+
+&lt;p&gt;If your looking for fun bars you can find pretty much what ever crowd you want to be around; You have Rainey street where they have gutted out a couple blocks of houses and turned them into some really cool bars with back yards. One of which is made out of metal storage containers. You have East sixth if you want to hang out sit down and relax, or go dancing and do some Texas two steppin. If your feeling like dressing up a bit more you have a lot of fun bars/lounges on west sixth which is always a good time. But if your looking for something a little more wild and crazy you have “dirty sixth”, located in-between east and west sixth, where a lot of the kids from the University of Texas go to and a whole lot of bachelorette parties as well. If your looking for something different and want to see some local artists, meet some cool new people, or just want to relax and let loose with nobody judging you at all you have to try out South Congress. Another great street for the same kind of feel is South Lamar and if you go out of your way to look there are some bars that are real diamonds there. If you want to catch a good game that might be on there are some great sports bars sprinkled on each of those streets as well. You have Bender bar right after the end of South Congress, Docs on South Congress, Black Sheep Lodge on Lamar, Little Woodrow’s on Sixth, and another great one just a little further north is Haymaker on Manor Road. Those are just some of the fun places that Austin has to offer.&lt;/p&gt;
+
+&lt;p&gt;If your not really into the bar scene there are so many more places to go. The Domain up a little more north in Austin is a great time. It has everything from Top Golf, which is one of my favorites, to an awesome mall which has just about everything around it. another great place in Austin, for when it’s warm, is Barton Springs. Barton Springs is located in Zilker Park and is a natural spring part of which they made into a man-made recreational swimming pool. One last place I’m going to list is the Green Belt. The Green Belt is such a beautiful wooded area where you can go biking, hiking, swimming, or rock climbing. I personally love rock climbing and there isn’t a better more beautiful place to do it.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/MerrillDesign/Daniel23</link>
+        <guid isPermaLink="true">http://yourdomain.com/MerrillDesign/Daniel23</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Wonders of Illustrator</title>
+        <description>&lt;p&gt;I’ve been working with Adobe Creative Suite for a few months and it amazes me how much can be done with Adobe Illustrator in such a short time. Previously I had been using Adobe’s Photoshop to create everything from mockups to typographic discoveries to generating style tiles. With just a little practice Illustrator gives you the ability to do all sorts of things that I didn’t think could be done with such ease.&lt;/p&gt;
+
+&lt;p&gt;Illustrator doesn’t only make it easer to do things, but there’s so many different things that can be done. Thinking off the top of my head just some of the things that I have been able to do include: wireframes, pixel perfect mockups, logo’s, icon’s, style tiles, user flows, use case, menu prototypes; I was even able to design a resume from scratch in Illustrator (I did’t feel like buying a template online) and it didn’t take all that much time. One more thing I wanted to add is how great Illustrator works with Typekit (another Adobe Creative Suite tools that focuses on typography).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/MerrillDesign/Daniel2</link>
+        <guid isPermaLink="true">http://yourdomain.com/MerrillDesign/Daniel2</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>My Journey to Austin</title>
+        <description>&lt;p&gt;I was born and raised in Atlanta, Georgia. After majoring in Business at the University of Mississippi, I came back home to hunt for a job, but wasn’t finding options that I felt really passionate about. I then decided to take a Mobile Development intensive immersion program at The Iron Yard. While there, I learned everything about creating native IOS apps. Shortly after completing the program, I began freelancing. &lt;/p&gt;
+
+&lt;p&gt;By 2015, I wanted to find a more permanent job and was also interested in experiencing life in a different city. My decision on a city was made easy when I discovered a new addition to The Iron Yard’s curriculum, called the User Interface Design program which was located in Austin Texas. Completing the User Interface Design program has complemented my expertise as a mobile developer and has also made me a skilled designer. Now that I have all of these abilities and live in a city with such a solid tech scene, I’m looking forward to what the future holds!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/MerrillDesign/Daniel15</link>
+        <guid isPermaLink="true">http://yourdomain.com/MerrillDesign/Daniel15</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>User Interface Design at The Iron Yard</title>
+        <description>&lt;p&gt;I have learned a lot in my first week and a half. I’ve already designed my first website and just leaned how to code CSS and HTML. I was sick a couple day’s, but even so I feel like I have a great handle on everything! I’m really enjoying the class and I can’t wait until I start interviewing for jobs.&lt;/p&gt;
+
+&lt;p&gt;Design is pretty different from developing IOS apps, but it’s gonna be great having the knowledge to do both. I have done an Iron Yard course before on mobile development and learned everything I needed to know to allow me to create IOS apps in Swift and Objective-C as well.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/MerrillDesign/Daniel1</link>
+        <guid isPermaLink="true">http://yourdomain.com/MerrillDesign/Daniel1</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Blog Post</title>
+        <description>&lt;p&gt;I have just started the Iron Yard’s User Interface Design program. It is an intensive immersion program that should give me all the knowledge I need to become a junior designer by the end of the course. I’m feeling very enthusiastic about becoming a designer and hope it will complement my already existing knowledge on mobile development.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/MerrillDesign/Daniel11</link>
+        <guid isPermaLink="true">http://yourdomain.com/MerrillDesign/Daniel11</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

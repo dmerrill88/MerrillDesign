@@ -1,0 +1,37 @@
+# Site settings
+title: Merrill Design - A portfolio about me and the work I've done
+email: dmerrill@gmail.com
+description: My portfolio.
+baseurl: "/MerrillDesign" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: DanielMerrill5
+github_username:  jekyll
+gems: [jekyll-paginate]
+paginate: 3
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Daniel Merrill
+      layout: "post"
+      category: blog
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+
+
+
+
