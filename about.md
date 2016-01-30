@@ -5,6 +5,6 @@ permalink: /about/
 
 ## Hi, I'm Daniel
 
-I was born and raised in Atlanta, Georgia. After majoring in Business at the University of Mississippi, I came back home to hunt for a job, but wasn’t finding options that I felt really passionate about. I then decided to take a Mobile Development intensive immersion program at The Iron Yard. While there, I learned everything about creating native IOS apps. Shortly after completing the program, I began freelancing. 
-
-By 2015, I wanted to find a more permanent job and was also interested in experiencing life in a different city. My decision on a city was made easy when I discovered a new addition to The Iron Yard’s curriculum, called the User Interface Design program which was located in Austin Texas. 
+I was born and raised in Atlanta, Georgia. I am a passionate developer and designer who likes to think outside the box to create new opportunities. After a few years in college where I was pursuing a degree in business, I realized that my true passion was for technology. I decided to take advantage of one of the top mobile development courses in the country at the Iron Yard. After finding success following the Iron Yard, I elected to take a second intensive course in design a year later. Having the ability to understand both design and development is a unique trait. It allows you to bridge the gap between misunderstandings that designers and developers seem to consistently have.
+Since my journey into technology I have been freelancing, tech consulting, and in the last year started my own company.
+By 2015, I was interested in experiencing life in a different city. My decision was made easy when I visited Austin Texas. Shortly after my visit I decided to take the leap and move.
