@@ -5,7 +5,8 @@ description: My portfolio.
 baseurl: "/MerrillDesign" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: DanielMerrill5
-github_username:  jekyll
+github_username:  dmerrill88
+linkedIn_username: dmerrill88
 gems: [jekyll-paginate]
 paginate: 3
 
